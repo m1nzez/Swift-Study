@@ -21,10 +21,4 @@
 - **Modal.md**: 모달 화면 전환
 - **Alert.md**: 경고창 및 알림
 
-## 참고 자료
-- **Xcode_Features.md**: Xcode 기능 및 경고창 띄우는 방법
-
-### 링크
-- [Notion Documentation](https://www.notion.so)
-
 이 레포지토리는 Swift 학습 자료 및 프로젝트 파일을 체계적으로 정리하여, 학습 및 개발에 유용한 참고 자료로 활용할 수 있습니다.
