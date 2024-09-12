@@ -2,7 +2,7 @@
 
 이 레포지토리는 Swift 공부 및 관련 프로젝트 파일을 정리한 것입니다. 주요 내용은 다음과 같습니다:
 
-## 프로젝트 파일
+## 프로젝트 구성 파일 정리
 - **AppDelegate.swift**: 앱의 주요 설정 파일
 - **SceneDelegate.swift**: 화면 전환 관리
 - **ViewController.swift**: 기본 ViewController 설정
