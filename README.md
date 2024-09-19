@@ -1,4 +1,4 @@
-# Swift Study & Project Repository
+# Swift Study 
 
 이 레포지토리는 Swift 공부 및 관련 프로젝트 파일을 정리한 것입니다. 주요 내용은 다음과 같습니다:
 
